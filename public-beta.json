@@ -3,8 +3,8 @@
   "edition": "PublicBasic",
   "channel": "public-beta",
   "version": "1.0.0-beta.2",
-  "download_url": "https://github.com/DevHabito/jormun-releases/releases/download/v1.0.0-beta.1/Jormun-Public-Beta-1.0-Setup.exe",
-  "sha256": "023fba06273cde0ab86fda11fa4de58045dcedb67b9d2dfc53b5f2d7bf16e70e",
-  "release_url": "https://github.com/DevHabito/jormun-releases/releases/tag/v1.0.0-beta.1",
+  "download_url": "https://github.com/DevHabito/jormun-releases/releases/download/v1.0.0-beta.2/Jormun-Public-Beta-1.0.0-beta.2-Setup.exe",
+  "sha256": "88eb15e4ecd0493e31bfd5cae1ee3a5931236b5b24e10e46af7808231979fa51",
+  "release_url": "https://github.com/DevHabito/jormun-releases/releases/tag/v1.0.0-beta.2",
   "mandatory": false
 }
