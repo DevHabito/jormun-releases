@@ -1,10 +1,10 @@
-﻿{
+{
     "product":  "Jormun",
     "edition":  "PublicBasic",
     "channel":  "public-beta",
-    "version":  "1.0.0-beta.3.1",
-    "download_url":  "https://github.com/DevHabito/jormun-releases/releases/download/v1.0.0-beta.3.1/Jormun-Public-Beta-1.0.0-beta.3.1-Setup.exe",
-    "sha256":  "bd849303367adf01fbf6c04c4ead5f771b3c1d5042cc80ad9379429702d97e7c",
-    "release_url":  "https://github.com/DevHabito/jormun-releases/releases/tag/v1.0.0-beta.3.1",
+    "version":  "1.0.0-beta.3.2",
+    "download_url":  "https://github.com/DevHabito/jormun-releases/releases/download/v1.0.0-beta.3.2/Jormun-Public-Beta-1.0.0-beta.3.2-Setup.exe",
+    "sha256":  "a73ae9b19455300589c46ba0cac72b86468d96d9ec416d57d23232df98a94ee7",
+    "release_url":  "https://github.com/DevHabito/jormun-releases/releases/tag/v1.0.0-beta.3.2",
     "mandatory":  false
 }
